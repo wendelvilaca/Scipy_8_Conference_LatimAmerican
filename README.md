@@ -1,3 +1,3 @@
 # Scipy_8_Conference_LatimAmerican
 
-Apresentação na Scipy - 8° conferência da América Latina
+Power Point da apresentação na Scipy - 8° conferência da América Latina
